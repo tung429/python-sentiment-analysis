@@ -7,3 +7,4 @@ Financial news search, Web Crawling, Sentiment analysis, Data visualization
 ```
 https://tung429.herokuapp.com/
 ```
+It is still developing
