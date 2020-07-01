@@ -1,6 +1,6 @@
 # Sentiment analysis on Financial news
 Financial news daily headline sentiment analysis in US
-Necessary Language: 
+#### Necessary Language: 
 1. Python
 2. HTML5
 3. CSS
