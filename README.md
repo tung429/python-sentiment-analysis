@@ -16,9 +16,10 @@ Financial news daily headline sentiment analysis in US
 
 ### Implementation
 ```
-Python 3.8.1 or above
-Python Framework - Flask
+Recommended Python 3.8.1 or above
+Python web framework: Flask
 Heroku hosting
+Data format: JSON
 ```
 #### Python package
 ```
