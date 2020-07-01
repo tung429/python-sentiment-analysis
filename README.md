@@ -1,6 +1,10 @@
 # Sentiment analysis on Financial news
 Financial news daily headline sentiment analysis in US
-- Python, HTML5, CSS, Bootstrap
+Necessary Language: 
+1. Python
+2. HTML5
+3. CSS
+4. Bootstrap
 
 ### Website function
 - Financial news search
