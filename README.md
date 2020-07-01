@@ -15,12 +15,20 @@ Financial news daily headline sentiment analysis in US
 - Data visualization
 
 ### Implementation
-```
-Recommended Python 3.8.1 or above
-Python web framework: Flask
-Heroku hosting
-Data format: JSON
-```
+| For | Used |
+| ------------------------ | ------------------- |
+| Python web framework    | Flask               |
+| Host                    | Heroku/localhost |
+| Recommended Python ver. | 3.8.1 or above      |
+| Data format             | JSON                |
+
+ 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+
 #### Python package
 ```
 certifi==2019.11.28
