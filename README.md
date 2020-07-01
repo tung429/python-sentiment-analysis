@@ -21,8 +21,8 @@ Financial news daily headline sentiment analysis in US
 | **Host**                    | Heroku or any PaaS hoster |
 | **Python ver.** | Recommended 3.8.1 or above      |
 | **Data sources format**             | JSON                |
-| **Data sources**             | NewsAPI or any other       |
-| **Sentiment Analysis tool**   | Google Cloud, Microsoft Azure, etc./ or any other SaaS software |
+| **Data sources**             | NewsAPI or any others       |
+| **Sentiment Analysis tool**   | Google Cloud, Microsoft Azure, etc./ or any others SaaS software |
 
 
 #### Python package
