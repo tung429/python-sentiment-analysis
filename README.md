@@ -10,7 +10,7 @@ Financial news daily headline sentiment analysis in US
 
 ### Website function
 - Financial news search
-- Web Crawling
+- Web Crawling: scrapy, beautifulSoup...
 - Sentiment analysis
 - Data visualization
 
