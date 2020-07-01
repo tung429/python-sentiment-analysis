@@ -6,6 +6,7 @@ Financial news daily headline sentiment analysis in US
 3. CSS
 4. Bootstrap
 5. Javascript
+6. Jinja2
 
 ### Website function
 - Financial news search
