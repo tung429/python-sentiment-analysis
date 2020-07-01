@@ -22,12 +22,6 @@ Financial news daily headline sentiment analysis in US
 | Recommended Python ver. | 3.8.1 or above      |
 | Data format             | JSON                |
 
- 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
 
 #### Python package
 ```
